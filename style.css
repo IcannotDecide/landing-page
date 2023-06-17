@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAFA;
+}
+
+.background {
+    background-color: #1F2937;
+    padding: 0 15%;
+}
+
+.header {
+    display: flex;
+    color: #F9FAFA;
+    padding: 20px 0;
+    margin-bottom: 80px;
+}
+
+.header-list {
+    display: flex;
+    flex: 1;
+    gap: 20px;
+    padding: 0;
+}
+
+.push {
+    margin-left: auto;
+}
+
+.section1 {
+    display: flex;
+    color: #F9FAFA;
+    justify-content: space-between;
+    gap: 40px;
+}
