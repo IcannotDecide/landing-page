@@ -96,6 +96,12 @@ a {
     border-radius: 10px;
 }
 
+.container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
 #information {
     padding: 30px;
     color: #1F2937;
