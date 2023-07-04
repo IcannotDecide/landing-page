@@ -57,6 +57,12 @@ a {
     flex: 1 0 0%;
 }
 
+.section1-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 #main {
     font-size: 48px;
     font-weight: bolder;
